@@ -38,7 +38,7 @@ function App() {
   };
 
   const handleClearCompleted = () => {
-    setTodoList(todoList.filter((todo) => !todo.completed));
+    setTodoList([]);
   };
 
   let filteredTodoList = todoList;
