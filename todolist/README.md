@@ -2,6 +2,10 @@
 
 Bu proje, React kullanarak basit bir ToDo List uygulamasıdır. Kullanıcılar, yapılacakları ekleyebilir, işaretleyebilir, silip, tamamlananları temizleyebilir ve filtreleyebilirler.
 
+## Önizleme
+https://github.com/salginerdi/Patika-Bootcamp-Hafta-23/assets/110611268/3979c832-8a1e-4487-a5e8-31d082f17846
+
+
 
 ## Özellikler
 
@@ -39,6 +43,9 @@ Bu proje, React kullanarak basit bir ToDo List uygulamasıdır. Kullanıcılar, 
 # React ToDo List
 
 This project is a simple ToDo List application built using React. Users can add tasks, mark them as completed, delete them, clear completed tasks, and filter them.
+
+## Preview
+https://github.com/salginerdi/Patika-Bootcamp-Hafta-23/assets/110611268/3979c832-8a1e-4487-a5e8-31d082f17846
 
 
 ## Features
